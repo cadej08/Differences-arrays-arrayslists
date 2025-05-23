@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Difference-Arrays-ArrayLists
 
 This Java project demonstrates the key differences between **arrays** and **ArrayLists** in Java.
@@ -44,3 +45,7 @@ To help beginner Java programmers understand:
 
 [GitHub Repository](https://github.com/cadej08/Difference-Arrays-ArrayLists)
 
+=======
+# Differences_arrays_arrayslists
+Java demo week 3
+>>>>>>> f1b841127743f3704d45d6c9c86c15f48cedae14
